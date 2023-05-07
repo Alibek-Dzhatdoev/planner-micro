@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="todo" />
         <module name="server" />
-        <module name="config" />
+        <module name="eureka-client" />
         <module name="entities" />
+        <module name="config" />
         <module name="gateway" />
         <module name="entity" />
       </profile>
@@ -17,8 +19,10 @@
       <module name="config" target="19" />
       <module name="entities" target="19" />
       <module name="entity" target="17" />
+      <module name="eureka-client" target="17" />
       <module name="gateway" target="19" />
-      <module name="server" target="19" />
+      <module name="server" target="17" />
+      <module name="todo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,8 +30,10 @@
       <module name="config" options="-parameters" />
       <module name="entities" options="-parameters" />
       <module name="entity" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="server" options="-parameters" />
+      <module name="todo" options="-parameters" />
     </option>
   </component>
 </project>
