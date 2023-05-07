@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="" />
+    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="entities">
+      <change afterPath="$PROJECT_DIR$/entities/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entities/src/test/java/com/dzhatdoev/entity/EntityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/test/java/com/dzhatdoev/todo/TodoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +150,7 @@
       <workItem from="1681398742090" duration="769000" />
       <workItem from="1681485774470" duration="26986000" />
       <workItem from="1682616118157" duration="2886000" />
-      <workItem from="1683361896897" duration="4412000" />
+      <workItem from="1683361896897" duration="5303000" />
     </task>
     <task id="LOCAL-00001" summary="следующий коммит исправит функционал в entities">
       <created>1681487371037</created>
@@ -139,7 +159,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681487371037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="тестовый">
+      <created>1683485485580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485485580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="entities">
+      <created>1683485530614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485530614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="todo">
+      <created>1683485563292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485563292</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +188,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="следующий коммит исправит функционал в entities" />
-    <option name="LAST_COMMIT_MESSAGE" value="следующий коммит исправит функционал в entities" />
+    <MESSAGE value="тестовый" />
+    <MESSAGE value="entities" />
+    <MESSAGE value="todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
