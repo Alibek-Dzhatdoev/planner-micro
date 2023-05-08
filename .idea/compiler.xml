@@ -9,7 +9,6 @@
         <module name="todo" />
         <module name="server" />
         <module name="eureka-client" />
-        <module name="entities" />
         <module name="config" />
         <module name="gateway" />
         <module name="entity" />

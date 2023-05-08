@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/server/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/entity/pom.xml" />
-        <option value="$PROJECT_DIR$/entities/pom.xml" />
         <option value="$PROJECT_DIR$/todo/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
       </list>

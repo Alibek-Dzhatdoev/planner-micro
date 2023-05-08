@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="entities">
-      <change afterPath="$PROJECT_DIR$/entities/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/src/test/java/com/dzhatdoev/entity/EntityApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
@@ -20,10 +12,43 @@
       <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo/src/test/java/com/dzhatdoev/todo/TodoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/EntitiesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Priority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Stat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/src/test/java/com/dzhatdoev/entity/EntityApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/StatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/StatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/PriorityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/PriorityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/StatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/StatRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/search/TaskSearchValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/search/TaskSearchValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/StatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/StatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/TaskService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +57,9 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,21 +90,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro/eureka-client",
+    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro/todo/src/main/java/com/dzhatdoev/todo",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.updates",
-    "spring.configuration.checksum": "8948e27dedcfa193cdf316603352b41b"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "2ecc69caed288c9d8a7c656a051521dd"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AD\Desktop\planner-micro\todo\src\main\java\com\dzhatdoev\todo" />
       <recent name="C:\Users\AD\Desktop\planner-micro" />
       <recent name="C:\Users\AD\Desktop\planner-micro\eureka-client\src\main\java\com\dzhatdoev\eurekaclient" />
-      <recent name="C:\Users\AD\Desktop\planner-micro\todo\src\main\java\com\dzhatdoev\todo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dzhatdoev.eurekaclient.controller" />
@@ -97,13 +125,6 @@
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.config.ConfigApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EntitiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="entities" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.entities.EntitiesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,7 +171,8 @@
       <workItem from="1681398742090" duration="769000" />
       <workItem from="1681485774470" duration="26986000" />
       <workItem from="1682616118157" duration="2886000" />
-      <workItem from="1683361896897" duration="5303000" />
+      <workItem from="1683361896897" duration="6802000" />
+      <workItem from="1683490598224" duration="7912000" />
     </task>
     <task id="LOCAL-00001" summary="следующий коммит исправит функционал в entities">
       <created>1681487371037</created>
