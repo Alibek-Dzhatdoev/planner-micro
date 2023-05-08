@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.service;
 
-import com.dzhatdoev.entities.entity.Priority;
+import com.dzhatdoev.todo.entity.Priority;
 import com.dzhatdoev.todo.repo.PriorityRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;
