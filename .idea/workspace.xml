@@ -4,51 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="entities">
-      <change afterPath="$PROJECT_DIR$/todo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/test/java/com/dzhatdoev/todo/TodoApplicationTests.java" afterDir="false" />
+    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/EntitiesApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Activity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Priority.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Stat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/java/com/dzhatdoev/entities/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/src/test/java/com/dzhatdoev/entity/EntityApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner-micro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/StatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/StatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/CategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/PriorityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/PriorityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/StatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/StatRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/repo/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/search/TaskSearchValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/search/TaskSearchValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/StatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/StatService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/TaskService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +55,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro/todo/src/main/java/com/dzhatdoev/todo",
+    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "2ecc69caed288c9d8a7c656a051521dd"
+    "spring.configuration.checksum": "0ff40244884f86bb7e8d11f160ff7b47"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -122,6 +87,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ConfigApplication">
+    <configuration name="AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.aop.AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.config.ConfigApplication" />
@@ -172,7 +144,8 @@
       <workItem from="1681485774470" duration="26986000" />
       <workItem from="1682616118157" duration="2886000" />
       <workItem from="1683361896897" duration="6802000" />
-      <workItem from="1683490598224" duration="7912000" />
+      <workItem from="1683490598224" duration="10350000" />
+      <workItem from="1683727769426" duration="3184000" />
     </task>
     <task id="LOCAL-00001" summary="следующий коммит исправит функционал в entities">
       <created>1681487371037</created>
@@ -202,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683485563292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="it works!!!!!!!!!!!">
+      <created>1683567905263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683567905263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +193,8 @@
     <MESSAGE value="тестовый" />
     <MESSAGE value="entities" />
     <MESSAGE value="todo" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo" />
+    <MESSAGE value="it works!!!!!!!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="it works!!!!!!!!!!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

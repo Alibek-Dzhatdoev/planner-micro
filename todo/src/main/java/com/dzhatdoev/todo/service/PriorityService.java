@@ -43,8 +43,8 @@ public class PriorityService {
         return repository.findById(id).get(); // т.к. возвращается Optional - можно получить объект методом get()
     }
 
-    public List<Priority> find(String title, Long id) {
-        return repository.findByTitle(title, id);
+    public List<Priority> find(String title, Long userId) {
+        return repository.findByTitle(title, userId);
     }
 
 }

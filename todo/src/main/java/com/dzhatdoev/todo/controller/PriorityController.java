@@ -48,22 +48,22 @@ public class PriorityController {
 
 
     @PostMapping("/add")
-    public ResponseEntity<Priority> add(@RequestBody Priority priority) {
+    public ResponseEntity<?> add(@RequestBody Priority priority) {
 
         // проверка на обязательные параметры
         if (priority.getId() != null && priority.getId() != 0) {
             // id создается автоматически в БД (autoincrement), поэтому его передавать не нужно, иначе может быть конфликт уникальности значения
-            return new ResponseEntity("redundant param: id MUST be null", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("redundant param: id MUST be null", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // если передали пустое значение title
         if (priority.getTitle() == null || priority.getTitle().trim().length() == 0) {
-            return new ResponseEntity("missed param: title", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("missed param: title", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // если передали пустое значение color
         if (priority.getColor() == null || priority.getColor().trim().length() == 0) {
-            return new ResponseEntity("missed param: color", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("missed param: color", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // save работает как на добавление, так и на обновление
@@ -72,29 +72,29 @@ public class PriorityController {
 
 
     @PutMapping("/update")
-    public ResponseEntity update(@RequestBody Priority priority) {
+    public ResponseEntity<?> update(@RequestBody Priority priority) {
 
 
         // проверка на обязательные параметры
         if (priority.getId() == null || priority.getId() == 0) {
-            return new ResponseEntity("missed param: id", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("missed param: id", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // если передали пустое значение title
         if (priority.getTitle() == null || priority.getTitle().trim().length() == 0) {
-            return new ResponseEntity("missed param: title", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("missed param: title", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // если передали пустое значение color
         if (priority.getColor() == null || priority.getColor().trim().length() == 0) {
-            return new ResponseEntity("missed param: color", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("missed param: color", HttpStatus.NOT_ACCEPTABLE);
         }
 
         // save работает как на добавление, так и на обновление
         priorityService.update(priority);
 
 
-        return new ResponseEntity(HttpStatus.OK); // просто отправляем статус 200 (операция прошла успешно)
+        return new ResponseEntity<>(HttpStatus.OK); // просто отправляем статус 200 (операция прошла успешно)
 
     }
 
