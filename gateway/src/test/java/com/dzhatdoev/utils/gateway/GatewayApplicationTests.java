@@ -1,4 +1,4 @@
-package com.dzhatdoev.gateway;
+package com.dzhatdoev.utils.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

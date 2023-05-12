@@ -1,4 +1,4 @@
-package com.dzhatdoev.config;
+package com.dzhatdoev.utils.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

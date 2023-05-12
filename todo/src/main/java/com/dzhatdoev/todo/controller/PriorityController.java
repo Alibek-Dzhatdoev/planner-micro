@@ -1,8 +1,8 @@
 package com.dzhatdoev.todo.controller;
 
+import com.dzhatdoev.todo.service.PriorityService;
 import com.dzhatdoev.todo.entity.Priority;
 import com.dzhatdoev.todo.search.PrioritySearchValues;
-import com.dzhatdoev.todo.service.PriorityService;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

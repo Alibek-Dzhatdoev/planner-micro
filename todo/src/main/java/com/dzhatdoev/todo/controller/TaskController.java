@@ -10,7 +10,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.dzhatdoev.todo.search.TaskSearchValues;
-import com.dzhatdoev.todo.service.TaskService;
 
 import java.text.ParseException;
 import java.util.Calendar;

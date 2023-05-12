@@ -1,4 +1,4 @@
-package com.dzhatdoev.aop.aop;
+package com.dzhatdoev.utils.aop;
 
 import lombok.extern.java.Log;
 import org.aspectj.lang.ProceedingJoinPoint;

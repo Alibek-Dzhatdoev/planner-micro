@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="it works!!!!!!!!!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner-micro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/main/java/com/dzhatdoev/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/dzhatdoev/utils/config/ConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/test/java/com/dzhatdoev/config/ConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/dzhatdoev/utils/config/ConfigApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/dzhatdoev/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/dzhatdoev/utils/gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/test/java/com/dzhatdoev/gateway/GatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/dzhatdoev/utils/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/utils/server/ServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/aop/AopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/utils/UtilsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/aop/aop/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/utils/aop/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro",
+    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro/todo/src/main/java/com/dzhatdoev/todo",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "project.structure.last.edited": "Facets",
@@ -86,38 +92,55 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigApplication">
-    <configuration name="AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="utils" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.aop.AopApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="ConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="config" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.config.ConfigApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.config.ConfigApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dzhatdoev.utils.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eureka-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.eurekaclient.EurekaClientApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dzhatdoev.eurekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.gateway.GatewayApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.gateway.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dzhatdoev.utils.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="ServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.server.ServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.server.ServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dzhatdoev.utils.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +152,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.EurekaClientApplication" />
+        <item itemvalue="Spring Boot.ServerApplication (1)" />
+        <item itemvalue="Spring Boot.ConfigApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -145,7 +176,7 @@
       <workItem from="1682616118157" duration="2886000" />
       <workItem from="1683361896897" duration="6802000" />
       <workItem from="1683490598224" duration="10350000" />
-      <workItem from="1683727769426" duration="3184000" />
+      <workItem from="1683727769426" duration="8393000" />
     </task>
     <task id="LOCAL-00001" summary="следующий коммит исправит функционал в entities">
       <created>1681487371037</created>
