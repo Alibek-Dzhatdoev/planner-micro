@@ -8,34 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="todo" />
         <module name="server" />
-        <module name="planner-micro" />
         <module name="eureka-client" />
+        <module name="entities" />
         <module name="utils" />
         <module name="config" />
         <module name="gateway" />
-        <module name="entity" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="config" target="19" />
-      <module name="entities" target="19" />
-      <module name="entity" target="17" />
-      <module name="eureka-client" target="17" />
-      <module name="gateway" target="19" />
-      <module name="planner-micro" target="17" />
-      <module name="server" target="17" />
-      <module name="todo" target="17" />
-      <module name="utils" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config" options="-parameters" />
       <module name="entities" options="-parameters" />
-      <module name="entity" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="gateway" options="-parameters" />
-      <module name="planner-micro" options="-parameters" />
       <module name="server" options="-parameters" />
       <module name="todo" options="-parameters" />
       <module name="utils" options="-parameters" />

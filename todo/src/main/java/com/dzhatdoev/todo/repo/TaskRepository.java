@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.repo;
 
-import com.dzhatdoev.todo.entity.Task;
+import com.dzhatdoev.entities.entity.Task;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.repo;
 
-import com.dzhatdoev.todo.entity.Stat;
+import com.dzhatdoev.entities.entity.Stat;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

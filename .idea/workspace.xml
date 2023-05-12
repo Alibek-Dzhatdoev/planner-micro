@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="it works!!!!!!!!!!!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/src/main/java/com/dzhatdoev/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/dzhatdoev/utils/config/ConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/src/test/java/com/dzhatdoev/config/ConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/dzhatdoev/utils/config/ConfigApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/dzhatdoev/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/dzhatdoev/utils/gateway/GatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/test/java/com/dzhatdoev/gateway/GatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/test/java/com/dzhatdoev/utils/gateway/GatewayApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/dzhatdoev/utils/server/ServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/TodoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/PriorityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/controller/TaskController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/dzhatdoev/todo/service/PriorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/aop/AopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/utils/UtilsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/aop/aop/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/com/dzhatdoev/utils/aop/LoggingAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="a045b972-5b0c-4ee8-bdb2-49204c4d788e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -41,11 +22,13 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="2OKkPk0QSCE7tTVS1WU9RNdqR5K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2PhmGXDQOlx565eXJv9jnGzpLcl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,50 +41,52 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/AD/Desktop/planner-micro/todo/src/main/java/com/dzhatdoev/todo",
+    "last_opened_file_path": "D:/РАБОЧИЙ СТОЛ/JavaProjects/planner-micro",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "project.structure.last.edited": "Facets",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "0ff40244884f86bb7e8d11f160ff7b47"
+    "project.structure.side.proportion": "0.27816093",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "6e16bde01303dd1582b93bf28cf1252f"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\AD\Desktop\planner-micro\todo\src\main\java\com\dzhatdoev\todo" />
-      <recent name="C:\Users\AD\Desktop\planner-micro" />
-      <recent name="C:\Users\AD\Desktop\planner-micro\eureka-client\src\main\java\com\dzhatdoev\eurekaclient" />
+      <recent name="D:\РАБОЧИЙ СТОЛ\JavaProjects\planner-micro\entity\src\main\java\com\dzhatdoev\entity" />
+      <recent name="D:\РАБОЧИЙ СТОЛ\JavaProjects\planner-micro" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.dzhatdoev.eurekaclient.controller" />
-      <recent name="com.dzhatdoev.todo.service" />
-      <recent name="com.dzhatdoev.todo.search" />
-      <recent name="com.dzhatdoev.todo.repo" />
-      <recent name="com.dzhatdoev.todo.controller" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dzhatdoev" />
     </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
         <option value="SpringBootApplicationConfigurationType" />
+        <option value="SwaggerCodegen" />
       </set>
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.GatewayApplication">
     <configuration name="ConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="config" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.config.ConfigApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.config.ConfigApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dzhatdoev.utils.config.*" />
+          <option name="PATTERN" value="com.dzhatdoev.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="entities" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.entities.EntityApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,10 +106,10 @@
     </configuration>
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.gateway.GatewayApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.gateway.GatewayApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dzhatdoev.utils.gateway.*" />
+          <option name="PATTERN" value="com.dzhatdoev.gateway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.server.ServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.server.ServerApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dzhatdoev.utils.server.*" />
+          <option name="PATTERN" value="com.dzhatdoev.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,9 +130,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="TodoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="todo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.todo.TodoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dzhatdoev.todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dzhatdoev.utils.UtilsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,7 +154,8 @@
       <list>
         <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.EurekaClientApplication" />
-        <item itemvalue="Spring Boot.ServerApplication (1)" />
+        <item itemvalue="Spring Boot.TodoApplication" />
+        <item itemvalue="Spring Boot.ServerApplication" />
         <item itemvalue="Spring Boot.ConfigApplication (1)" />
       </list>
     </recent_temporary>
@@ -164,71 +163,18 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82d6c714-69c6-4aef-9565-b195b8f28741" name="Changes" comment="" />
-      <created>1681316641057</created>
+      <changelist id="a045b972-5b0c-4ee8-bdb2-49204c4d788e" name="Changes" comment="" />
+      <created>1683917592839</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681316641057</updated>
-      <workItem from="1681316641701" duration="2600000" />
-      <workItem from="1681323496964" duration="4633000" />
-      <workItem from="1681398742090" duration="769000" />
-      <workItem from="1681485774470" duration="26986000" />
-      <workItem from="1682616118157" duration="2886000" />
-      <workItem from="1683361896897" duration="6802000" />
-      <workItem from="1683490598224" duration="10350000" />
-      <workItem from="1683727769426" duration="8393000" />
+      <updated>1683917592839</updated>
+      <workItem from="1683917593991" duration="3386000" />
+      <workItem from="1683921020653" duration="1513000" />
+      <workItem from="1683925079563" duration="3451000" />
     </task>
-    <task id="LOCAL-00001" summary="следующий коммит исправит функционал в entities">
-      <created>1681487371037</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681487371037</updated>
-    </task>
-    <task id="LOCAL-00002" summary="тестовый">
-      <created>1683485485580</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683485485580</updated>
-    </task>
-    <task id="LOCAL-00003" summary="entities">
-      <created>1683485530614</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683485530614</updated>
-    </task>
-    <task id="LOCAL-00004" summary="todo">
-      <created>1683485563292</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683485563292</updated>
-    </task>
-    <task id="LOCAL-00005" summary="it works!!!!!!!!!!!">
-      <created>1683567905263</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1683567905263</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="следующий коммит исправит функционал в entities" />
-    <MESSAGE value="тестовый" />
-    <MESSAGE value="entities" />
-    <MESSAGE value="todo" />
-    <MESSAGE value="it works!!!!!!!!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="it works!!!!!!!!!!!" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

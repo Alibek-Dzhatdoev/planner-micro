@@ -1,8 +1,8 @@
 package com.dzhatdoev.todo.controller;
 
-import com.dzhatdoev.todo.entity.Category;
-import com.dzhatdoev.todo.search.CategorySearchValues;
 import com.dzhatdoev.todo.service.CategoryService;
+import com.dzhatdoev.entities.entity.Category;
+import com.dzhatdoev.todo.search.CategorySearchValues;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -12,13 +12,11 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 
-/*
-
+/**
 Используем @RestController вместо обычного @Controller, чтобы все ответы сразу оборачивались в JSON,
 иначе пришлось бы добавлять лишние объекты в код, использовать @ResponseBody для ответа, указывать тип отправки JSON
 
 Названия методов могут быть любыми, главное не дублировать их имена внутри класса и URL mapping
-
 */
 
 @RestController

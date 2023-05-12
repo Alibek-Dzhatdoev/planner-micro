@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.service;
 
-import com.dzhatdoev.todo.entity.Stat;
+import com.dzhatdoev.entities.entity.Stat;
 import com.dzhatdoev.todo.repo.StatRepository;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.controller;
 
-import com.dzhatdoev.todo.entity.Task;
+import com.dzhatdoev.entities.entity.Task;
 import com.dzhatdoev.todo.service.TaskService;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.data.domain.Page;

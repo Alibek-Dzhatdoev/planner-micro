@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.service;
 
-import com.dzhatdoev.todo.entity.Task;
+import com.dzhatdoev.entities.entity.Task;
 import com.dzhatdoev.todo.repo.TaskRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.cache.annotation.Cacheable;

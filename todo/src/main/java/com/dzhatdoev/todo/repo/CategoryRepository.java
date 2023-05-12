@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.repo;
 
-import com.dzhatdoev.todo.entity.Category;
+import com.dzhatdoev.entities.entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

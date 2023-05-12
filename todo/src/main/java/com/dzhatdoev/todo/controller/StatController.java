@@ -1,6 +1,6 @@
 package com.dzhatdoev.todo.controller;
 
-import com.dzhatdoev.todo.entity.Stat;
+import com.dzhatdoev.entities.entity.Stat;
 import com.dzhatdoev.todo.service.StatService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

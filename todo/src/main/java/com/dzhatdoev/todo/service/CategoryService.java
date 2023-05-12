@@ -1,7 +1,7 @@
 package com.dzhatdoev.todo.service;
 
 import com.dzhatdoev.todo.repo.CategoryRepository;
-import com.dzhatdoev.todo.entity.Category;
+import com.dzhatdoev.entities.entity.Category;
 import jakarta.transaction.Transactional;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
